@@ -23,4 +23,4 @@ spec:
     uri: https://github.com/opendatahub-io/distributed-workloads/tarball/main
     # ODH Contrib component manifests
   - name: manifests-contrib
-    uri: https://github.com/opendatahub-io-contrib/odh-contrib-manifests/tarball/main
+    uri: https://github.com/tedhtchang/odh-contrib-manifests/tarball/main
