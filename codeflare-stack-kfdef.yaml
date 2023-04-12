@@ -20,4 +20,4 @@ spec:
   repos:
     # ODH Core component manifests
   - name: manifests
-    uri: https://github.com//tedhtchang/distributed-workloads/tarball/main
+    uri: https://github.com//tedhtchang/distributed-workloads/tarball/ray-v0.5.0
