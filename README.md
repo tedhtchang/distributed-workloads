@@ -20,11 +20,11 @@ Integration of this stack into the Open Data Hub is owned by the Distributed Wor
 
 | Component                    | Version |
 |------------------------------|---------|
-| CodeFlare Operator           | v0.0.4  |
-| Multi-Cluster App Dispatcher | v1.31.0 |
-| CodeFlare-SDK                | v0.4.4  |
-| InstaScale                   | v0.0.4  |
-| KubeRay                      | v0.5.0  |
+| CodeFlare Operator           | v0.0.5.dev |
+| Multi-Cluster App Dispatcher |  v1.32.0.dev |
+| CodeFlare-SDK                | v0.4.5.dev |
+| InstaScale                   | v0.0.5.dev |
+| KubeRay                      | v0.5.1.dev |
 
 ## Quick Start
 
