@@ -26,6 +26,9 @@ spec:
       - command:
         - /manager
         image: $(odh-kuberay-operator-controller-image)
+        env:
+          - name: IMAGE
+            value: $(odh-kuberay-operator-controller-image)
         ports:
         - name: http
           containerPort: 8080
