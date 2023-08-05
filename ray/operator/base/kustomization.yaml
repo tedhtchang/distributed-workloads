@@ -19,7 +19,7 @@ vars:
 - name: odh-kuberay-operator-controller-image
   objref:
     kind: ConfigMap
-    name: codeflare-stack-config
+    name: ray-config
     apiVersion: v1
   fieldref:
     fieldpath: data.odh-kuberay-operator-controller-image
